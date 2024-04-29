@@ -1,3 +1,4 @@
 # test
-this is my first git respository. 
-author - Akshay Wadhi
+
+This Is My First Git Respository.
+Author - Akshay Wadhi
